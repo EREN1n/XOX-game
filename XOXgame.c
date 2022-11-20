@@ -110,9 +110,9 @@ int checktable()
 void Board()
 {
     system("cls");
-    printf("\n\n\t X O X \n\n");
+    printf("\n\n\t X O X                                                     Created by EREN1n(Eren Kardogan)");
 
-    printf("Player 1 (X)  -  Player 2 (O)\n\n\n");
+    printf("\n\n Player 1 (X)  -  Player 2 (O)\n\n\n");
 
 
     printf("     |     |     \n");
